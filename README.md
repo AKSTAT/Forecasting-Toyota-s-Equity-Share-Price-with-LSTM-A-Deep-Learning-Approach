@@ -1,0 +1,1 @@
+# Forecasting-Toyota-s-Equity-Share-Price-with-LSTM-A-Deep-Learning-Approach
