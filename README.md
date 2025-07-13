@@ -1,12 +1,8 @@
 # Forecasting-Toyota-s-Equity-Share-Price-with-LSTM-A-Deep-Learning-Approach
 
----
-
 # 📈 Toyota Share Price Forecasting with LSTM
 
 In the fast-paced world of financial markets, predicting equity share prices is a challenging yet valuable task. This project demonstrates how to build a Long Short-Term Memory (LSTM) model using deep learning to forecast the share price of **Toyota Motor Corporation (Ticker: 7203.T)** based on historical data.
-
----
 
 ## 🚀 Project Overview
 
@@ -14,7 +10,6 @@ In the fast-paced world of financial markets, predicting equity share prices is 
 * **Approach:** Leverage deep learning to capture non-linear, long-term dependencies in stock price data.
 * **Tools:** Python, TensorFlow/Keras, scikit-learn, pandas, matplotlib, yfinance.
 
----
 
 ## 📒 What’s Inside
 
@@ -29,31 +24,13 @@ In the fast-paced world of financial markets, predicting equity share prices is 
 * ✅ **Model Architecture:** Stacked LSTM layers with dropout to prevent overfitting.
 * ✅ **Optimizer & Loss:** Uses `Nadam` optimizer and `mean_squared_error` loss function for robust regression.
 
----
-
 ### 📊 website link - https://www.akstats.in/2025/07/forecasting-toyotas-equity-share-price.html
 
-
----
 ## 🗃️ Data Source
 
 * Historical stock price data is retrieved using [Yahoo Finance](https://finance.yahoo.com/).
 
----
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
-Feel free to use, share, or adapt the code for your own forecasting tasks.
----
-
-## 🙌 Contributing
-
-Pull requests, issues, and suggestions are welcome!
-If you spot a bug or want to improve the model, please open an issue or submit a PR.
----
-
-## 📬 Contact
-
-If you’d like to extend this project — for example, deploy it with Streamlit, experiment with hyperparameter tuning, or adapt it for other stocks.
----
-
+Feel free to use, share, or adapt the code for your forecasting tasks.
